@@ -7,7 +7,7 @@
 
 * 1° Semestre 2022
 
-Sistema desenvolvido para uma maior apliação do público dos cinemas através de uma maneira de reprodução de filmes na estreia que possam ser vistos no conforto da sua casa ou até mesmo em outros diversos lugares, através da plataforma.
+  Sistema desenvolvido para uma maior apliação do público dos cinemas através de uma maneira de reprodução de filmes na estreia que possam ser vistos no conforto da sua casa ou até mesmo em outros diversos lugares, através da plataforma.
 
 ## Integrantes
 

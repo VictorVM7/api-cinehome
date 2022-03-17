@@ -3,6 +3,9 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
+No século XVIII, muitas pessoas experimentaram fazer aparelhos que fizessem um desenho apresentar movimento. Em 1832, Joseph Plateau, um cientista belga, criou o fenacistoscópio, primeiro aparelho a produzir a ilusão de movimento num desenho.E dessa primeira invenção de movimentação de desenho , criaram-se novos dispositivos cada vez mais aprimorados e em dezembro de 1895, pela primeira vez um filme foi projetado publicamente em uma tela , essas evoluções levaram a primeira exibição de um filme que temos até hoje nos cinemas , lugares nos quais as pessoas vão para assitirem aos lançamentos de filmes e apreciam a arte cinematográfica.Mas nos dias atuais ainda sofremos dificuldade com ao acesso aos cinemas 
+
+
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
 Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.

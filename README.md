@@ -15,6 +15,7 @@
 * Victor Magalhães de Souza
 * Wiver Lopes Magalhães
 * Guilherme Valadares
+* Vinícius Henrique Silva Mendes
 
 ## Orientador
 

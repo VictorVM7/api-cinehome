@@ -8,19 +8,12 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+*João Alberto* - João Alberto Rodrigues tem 31 anos, mora com a esposa Marcela Diniz desde os 25 anos, quanso se casaram. Ele é cadeirante desde os 26 anos quando sofreu um acidente de moto na esquina de sua casa. João é muito eclético com relação a filmes, não possuindo um gênero cinemático preferido e ele sempre está por dentro das notícias que envolvem esse meio artístico, sendo isso o principal fator que o fizesse a frequentar os cinemas antes de sofrer o acidente. No entanto, após sua lesão, João não consegue ir aos cinemas facilmente uma vez que, no lugar onde mora, não há calçadas regulares, há pouco movimento de transporte público, não possui muitas condições de ter veículos adaptados e o casal encontra dificuldades físicas de descolamento até o shopping da cidade, onde fica o cinema.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+*Ana Beatriz* - Ana Beatriz Silva é uma jovem de 21 anos idade, filha do padeiro José Silva, filha da costureira de uma empresa de camisas Carla Silva e irmã mais velha de Gabriela de 12 anos. Ana, seguindo os passos da mãe, está fazendo um cursinho de moda na sua cidade no interior de Minas Gerais. Ela, como muitos outros brasileiros, nunca foi ao cinema pois o cinema mais próximo fica na cidade vizinha a 42km. Devido as condiçoes da família, eles ainda não tiveram a oportunidade de ver um filme lançado nos cinemas pois as condições são muito difíceis para eles, como o preço da gasolina, deslocamento, preço do ingressos e alimentação.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+*Rafael Ambani* - Rafael Ambani é um jovem de 18 anos, filho do grande empresário Carlos Ambani. Rafael é recém formado no ensino médio pela melhor escola do estado onde vive. Ele gosta muito de filmes de super-heróis e um dos seus hobbies favoritos é maratonar filmes e séries. Como Rafael ainda não trabalha e tem poucas obrigações, ele passa bastante tempo na sala de filmes de sua casa com uma televisão de 82 polegadas, assistindo aos seriedados e filmes dos serviços de streaming. Rafael, por ser uma pessoa que poucas vezes sai de sua casa, gostaria que seus filmes favoritos que são lançados no cinema pudessem ser assistidos em sua casa devido ao conforto e a seus gostos pessoais.
+
 
 ## Histórias de Usuários
 

@@ -17,21 +17,26 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+### Usuário
+|  COMO  |	         QUERO	             |  PARA
+|:------:| --------------------------- | ------------------------------------------------|
+|Usuário	| Entrar no site             	|  Entender as funcionalidades do site            |  
+|Usuário	| Cadastrar	                  |  Ter acesso ao site e suas funcionalidades      |
+|Usuário	| Ver os horários do filme   	|  Agendar o melhor horário para assistir o filme |
+|Usuário	| Ver a sinopse de um filme	  |  Saber o resumo do filme                        |
+|Usuário	| Comprar um ingresso	        |  Assisir ao filme escolhido                     |
+|Usuário	| Alterar dados do meu perfil | 	Deixá-lo atualizado                            |
+|Usuário	| Deslogar	                   |  Sair do site                                   |
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+### Administrador
+|COMO	| QUERO	| PARA |
+|:---:|-------|------|
+|Administrador |	Aprovar perfil de usuário	| Verificação de veracidade do cadastro |
+|Administrador	| Disponibilizar os filmes |	Usuários poderem assistir |
+|Administrador	| Excluir, manter, alterar e criar usuários | Controle do sistema |
+|Administrador	| Alterar informações do site |	Deixá-las atualizadas |
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 

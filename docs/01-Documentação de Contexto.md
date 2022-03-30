@@ -16,25 +16,18 @@ Como dito anteriormente o sistema tem por objetivo conceder a maior facilitaçã
 
 Podemos destacar os seguintes objetivos específicos:
 
+* Facilitação no acesso aos cinemas
+* Aumento do público dos cinemas
+* Opção de assitir o filme de sua casa ou caso queira comprar o ingresso para assitir presenciamente
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Quem um dia não quis assitir um filme em lancamento no cinema mas após um dia cheio e cansativo quando chegou em casa não queria sair pois ja estava cansado e sabia que o filme sairia de cartaz em alguns poucos dias ou até mesmo aquele dia que você não possuia muito dinheiro para se locomover até um cinema mais próximo e deixou de ir ao cinema perdeu assim a estreia daquele filme que desejava ver e que todas as outras pessoas estão falando. Pensando nisso nosso sistema tem como principal objetivo a facilitação do acesso ao cinema para que nesses você consigam assitir o filme desejado sem a necessidade de ter que se locomover até o cinema mais próximo.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+O que além de facilitar o acesso para esse tipo de caso também facilitaria para as pessoas que possuem necessidades como por exemplo uma pessoa que necessita de cuidados especiais e deseja assitir um filme só que no momento não tem como se locomover até o cinema. O nosso sistema faria com que esse tipo de caso não acontecesse.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Além de todas essa vantagens para os usuários também seria uma grande vantagem para os cinemas pois os mesmos conseguiriam um aumento do seu público conseguindo ter mais sessões de filmes disponíveis e assim conseguindo aumentar o seu lucro.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O sistema busca atender ao cinema proporcionando uma maneira de conseguir ter mais público para o mesmo e atender ao público que gosta de filmes que seria um público livre pois possui filme de todas indicações tanto do livre até os com indicação maior de 18 anos assim facilitando o acesso dos mesmos aos filmes.

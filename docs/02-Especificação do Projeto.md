@@ -81,22 +81,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
   correspondem a uma característica técnica, seja de usabilidade,
   desempenho, confiabilidade, segurança ou outro (ex: suporte a
   dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+| ITEM	| RESTRIÇÃO         |
+|:----:|-------------------|
+|    1 |	O usuário não poderá gravar ou printar a tela durante o filme |
+|    2 |	O usuário não poderá ver o filme sem pagar | 
+|    3 |	O administrador não terá acesso aos dados críticos do usuário (Dados bancários) |
+|    4 |	Não será possíver dar uma avaliação sem ter assistido o filme |
+|    5 |	O usuário não poderá parar o filme e assistir depois |
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+## LINK DA PLANILHA DE ESPECIFICAÇÃO:
+https://drive.google.com/drive/folders/1hpnijMHbGk5BzVUdY7hBcFGXEb4rrCB5

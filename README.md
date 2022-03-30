@@ -39,7 +39,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 - [ ] <a href="docs/10-Plano de Testes de Usabilidade.md">Plano de Testes de Usabilidade</a></li>
 - [ ] <a href="docs/11-Registro de Testes de Usabilidade.md">Registro de Testes de Usabilidade</a></li>
 - [ ] <a href="docs/12-Apresentação do Projeto.md">Apresentação do Projeto</a></li>
-- [ ] <a href="docs/13-Referências.md">Referências</a></li>
+- [X] <a href="docs/13-Referências.md">Referências</a></li>
 
 # Calendário
 

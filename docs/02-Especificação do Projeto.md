@@ -32,32 +32,45 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 ### Administrador
 |COMO	| QUERO	| PARA |
 |:---:|-------|------|
-|Administrador |	Aprovar perfil de usuário	| Verificação de veracidade do cadastro |
-|Administrador	| Disponibilizar os filmes |	Usuários poderem assistir |
-|Administrador	| Excluir, manter, alterar e criar usuários | Controle do sistema |
-|Administrador	| Alterar informações do site |	Deixá-las atualizadas |
+|Administrador |	Aprovar perfil de usuário	                | Verificação de veracidade do cadastro |
+|Administrador	| Disponibilizar os filmes                  |	Usuários poderem assistir             |
+|Administrador	| Excluir, manter, alterar e criar usuários | Controle do sistema                   |
+|Administrador	| Alterar informações do site               |	Deixá-las atualizadas                 |
 
 
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
+### Requisitos Não Funcionais
+
+|   ID	  |              Descrição do Requisito	                 | Prioridade |
+|:------:|------------------------------------------------------|:----------:|
+|RNF-001	| O sistema deve ser responsivo (Adaptar as telas)	    | Alta       |
+|RNF-002	| O sistema deve proteger o login e senha do usuário	  | Alta       |
+|RNF-003	| A navegação deve ser intuitiva e fácil	              | Média      |
+|RNF-004	| A interface precisa conter elementos minimalistas	   | Baixa      |
+|RNF-005 |	O sistema deve oferecer um meio de pagamento seguro	 | Alta       |
+|RNF-006	| O site deve ser construído em HTML, CSS e JS	        | Média      |
+|RNF-007 |	A resposta do sistema as requisições são de 3s	      | Baixa      |
+|RNF-008 |	O sistema deve rodar em Windows e Linux	             | Média      |
+
+
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
-
-### Requisitos não Funcionais
-
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
+|ID|	Descrição do Requisito |	Prioridade | 
+|:-:|-----------------------|:----------:|
+|RF-001|	Cadastrar no sistema |	Alta |
+|RF-002|	Realizar login	| Alta |
+|RF-003|	Opçao para acessar sessão do filme para assistir |	Alta |
+|RF-004|	Emitir os ingressos virtuais para o usuário com os horários |	Alta |
+|RF-005|	Escolher o filme para assistir |	Média |
+|RF-006|	Opção de marcar a sessão do filme |	Média |
+|RF-007|	Dar opção de acessibilidade (legendas, alto contraste) |	Média |
+|RF-008|	Pesquisar por filmes e filtrá-los por gênero |	Baixa |
+|RF-009|	Ver dados dos filmes |	Baixa |
+|RF-010|	Dar opção de lembrete para o usuário |	Baixa |
+|RF-011|	Avaliar o filme assistido |	Baixa |
 
 - [Requisitos Funcionais
  (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):

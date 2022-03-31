@@ -9,6 +9,71 @@ Nossa equipe tem como objetivo realizar o desenvolvimento de uma plataforma que 
 
 * Todas as funções de nossa plataforma desde de compra o ingresso para a sessão até o usuário assitir o filme desejado , sera realizado através da plataforma do VSCode.
 
+## Tabela de desenvolvimento
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-jq85"><span style="fon
+     t-weight:bold;background-color:#F3F3F3">PARTE 1</span></th>
+    <th class="tg-prs8"><span style="font-weight:bold;background-color:#F3F3F3">PARTE 2</span></th>
+    <th class="tg-prs8"><span style="font-weight:bold;background-color:#F3F3F3">PARTE 3</span></th>
+    <th class="tg-prs8"><span style="font-weight:bold;background-color:#F3F3F3">PARTE 4</span></th>
+    <th class="tg-prs8"><span style="font-weight:bold;background-color:#F3F3F3">PARTE 5</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8d8j"><span style="font-weight:normal">Brainstorming</span></td>
+    <td class="tg-8d8j"><span style="font-weight:normal">Definição do problema</span></td>
+    <td class="tg-8d8j"><span style="font-weight:normal">Prototipagem</span></td>
+    <td class="tg-8d8j"><span style="font-weight:normal">Implementação</span></td>
+    <td class="tg-8d8j"><span style="font-weight:normal">Revisão</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8d8j"><span style="font-weight:normal">Levantamento de ideias</span></td>
+    <td class="tg-8d8j"><span style="font-weight:normal">Definição da solução</span></td>
+    <td class="tg-8d8j"><span style="font-weight:normal">Wireframes</span></td>
+    <td class="tg-8d8j"><span style="font-weight:normal">Desenvolvimento</span></td>
+    <td class="tg-8d8j"><span style="font-weight:normal">Teste final</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8d8j"><span style="font-weight:normal">Pesquisas</span></td>
+    <td class="tg-8d8j"><span style="font-weight:normal">Criação de personas</span></td>
+    <td class="tg-8d8j"></td>
+    <td class="tg-8d8j"><span style="font-weight:normal">Testes</span></td>
+    <td class="tg-8d8j"><span style="font-weight:normal">Apresentação</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8d8j"><span style="font-weight:normal">Briefing</span></td>
+    <td class="tg-8d8j"><span style="font-weight:normal">Criação dos requisitos</span></td>
+    <td class="tg-8d8j"></td>
+    <td class="tg-8d8j"><span style="font-weight:normal">Programação</span></td>
+    <td class="tg-8d8j"><span style="font-weight:normal">Entrega do projeto</span></td>
+  </tr>
+  <tr>
+    <td class="tg-8d8j"><span style="font-weight:normal">Anotações</span></td>
+    <td class="tg-8d8j"><span style="font-weight:normal">Funcionalidades do sistema</span></td>
+    <td class="tg-8d8j"></td>
+    <td class="tg-8d8j"></td>
+    <td class="tg-8d8j"></td>
+  </tr>
+  <tr>
+    <td class="tg-8d8j"></td>
+    <td class="tg-8d8j"><span style="font-weight:normal">Caminho do Usuário</span></td>
+    <td class="tg-8d8j"></td>
+    <td class="tg-8d8j"></td>
+    <td class="tg-8d8j"></td>
+  </tr>
+  <tr>
+    <td class="tg-8d8j"></td>
+    <td class="tg-8d8j"><span style="font-weight:normal">CRUD (Criar, Ler, Atulizar e deletar)</span></td>
+    <td class="tg-8d8j"></td>
+    <td class="tg-8d8j"></td>
+    <td class="tg-8d8j"></td>
+  </tr>
+</tbody>
+</table>
+
 
 ## Controle de Versão
 

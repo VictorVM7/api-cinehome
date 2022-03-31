@@ -3,6 +3,8 @@
 
 Nossa equipe tem como objetivo realizar o desenvolvimento de uma plataforma que tem como principal função uma facilitação ao acesso ao cinema. Nessa plataforma para ser possível a realização da principal função tera as seguintes funções em nossa plataforma:
 
+* Equipe utiliza se de metodologia Scrum para as organizações de tarefas e controle do projeto. 
+
 * Principal funcionalidade é a opção do usuário assitir o filme desejado apartir do conforto de sua casa através da plataforma.
 
 * Sistema totalmente navegavel possuindo estrutura CRUD para ser possível a criação de seu usuário e com o mesmo a realização de compras de ingresso e sendo possível assistir filmes de lancamento do cinema em sua casa.
@@ -109,7 +111,14 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+ Organização do Grupo:
+
+* Product Owner: Victor Magalhães de Souza (Responsável por manter a integridade conceitual das novas funcionalidades, bugs ou melhorias, para que essas sigam uma visão definida para o produto ou projeto.)
+* Scrum Master: Pedro Henrique Cunha Vieira (Certificar de que os membros não se comprometam com compromissos além dos que eles conseguem cumprir dentro de uma Sprint.)
+* Development Team (Dev):Vinícius Henrique Silva Mendes
+                         Wiver Lopes Magalhães
+                         Guilherme Valadares
+                         ↳(Developers são responsáveis pela execução das tarefas de incremento a cada Sprint.)
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 

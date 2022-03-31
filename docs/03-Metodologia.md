@@ -118,7 +118,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 * Development Team (Dev):Vinícius Henrique Silva Mendes,
                           Wiver Lopes Magalhães,
                           Guilherme Valadares
-                         →(Developers são responsáveis pela execução das tarefas de incremento a cada Sprint.)
+                         (Developers são responsáveis pela execução das tarefas de incremento a cada Sprint.)
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 

@@ -1,8 +1,6 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
 Nossa equipe tem como objetivo realizar o desenvolvimento de uma plataforma que tem como principal função uma facilitação ao acesso ao cinema. Nessa plataforma para ser possível a realização da principal função tera as seguintes funções em nossa plataforma:
 
 * Principal funcionalidade é a opção do usuário assitir o filme desejado apartir do conforto de sua casa através da plataforma.
@@ -11,8 +9,6 @@ Nossa equipe tem como objetivo realizar o desenvolvimento de uma plataforma que 
 
 * Todas as funções de nossa plataforma desde de compra o ingresso para a sessão até o usuário assitir o filme desejado , sera realizado através da plataforma do VSCode.
 
-
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
 ## Controle de Versão
 

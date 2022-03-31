@@ -115,8 +115,8 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 * Product Owner: Victor Magalhães de Souza (Responsável por manter a integridade conceitual das novas funcionalidades, bugs ou melhorias, para que essas sigam uma visão definida para o produto ou projeto.)
 * Scrum Master: Pedro Henrique Cunha Vieira (Certificar de que os membros não se comprometam com compromissos além dos que eles conseguem cumprir dentro de uma Sprint.)
-* Development Team (Dev):Vinícius Henrique Silva Mendes,
-                          Wiver Lopes Magalhães,
+* Development Team (Dev): Vinícius Henrique Silva Mendes,
+                          Wiver Lopes Magalhães e
                           Guilherme Valadares
                          (Developers são responsáveis pela execução das tarefas de incremento a cada Sprint.)
 

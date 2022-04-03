@@ -12,7 +12,7 @@ Como explicitado, o problema que se busca solucionar é a difícil acessibilidad
 
 ## Objetivos
 
-Como dito anteriormente o sistema tem por objetivo conceder a maior facilitação do acesso ao cinema , com isso o aumento do público do cinema objetivando recuperar as perdas causadas pela pandemia do Covid-19 e, consequentemente, alavancar as suas vendas.Além de que todas as pessoas tendo dificuldade ou não para ter o acesso ao cinema consigam ver filmes em lançamentos do conforto de sua casa.
+Como dito anteriormente o sistema tem por objetivo conceder a maior facilitação do acesso ao cinema , com isso o aumento do público do cinema objetivando recuperar as perdas causadas pela pandemia do Covid-19 e, consequentemente, alavancar as suas vendas.Além de que todas as pessoas tendo dificuldade ou não para ter o acesso ao cinema consigam ver filmes em lançamentos do conforto de sua casa. Esse projeto visa facilitar o acesso ao Cinema de forma online para aqueles que são frequentadores de cinema, dando a eles chances de assistir um filme de qual dispositvo desejar, e para pessoas que tenham algum tipo de dificuldade física, locomotiva ou geográfico levando o Cinema até elas através de seus dispositivos.
 
 Podemos destacar os seguintes objetivos específicos:
 
@@ -28,6 +28,59 @@ O que além de facilitar o acesso para esse tipo de caso também facilitaria par
 
 Além de todas essa vantagens para os usuários também seria uma grande vantagem para os cinemas pois os mesmos conseguiriam um aumento do seu público conseguindo ter mais sessões de filmes disponíveis e assim conseguindo aumentar o seu lucro.
 
+## Dados
+
+O Cinema, em muitos casos, torna-se um ambiente exclusivo para certo tipo de público quando esse se refere a posição geográfica e situação econômica. Tão sério é o assunto que no ano de 2019, foi abordado como tema principal do Exame Nacional do Ensino Médio (ENEM) o seguinte tema: "Democratização do Acesso ao Cinema no Brasil.", sendo esse tema muito comentado e estudado naquele ano.
+Em 2018, o Instituto Brasileiro de Geografia e Estatística (IBGE) realizou uma pesquisa na qual foram levantados os seguintes dados:
+    • 39,9% das pessoas moravam em municípios sem, ao menos, um cinema.
+    • 10% dos municípios brasileiros têm salas de cinema.
+
+Outros dados do Instituto de Pesquisa Econômica Aplicada (IPEA) em 2010 revelaram que:
+    • 54% dos brasileiros nunca foram ao cinema.
+    • 26% raramente assistem a filmes na telona.
+    • Os entrevistados apontaram que as dificuldades maiores foram pouco tempo livre, equipamentos culturais mal localizados e preço alto para consumir cultura.
+
+A Ancine, levantou um censo em 2019 com as seguintes informações:
+    • Menos de 10% das salas de cinema do país têm algum tipo de acessibilidade para deficientes visuais ou auditivos
+    • De 3300 salas de Cinema do País, 269 tem ao menos um dos recursos de legenda descritiva, audiodescrição ou libras nas sessões.
+    • No último censo, foi considerado 18% da populaçao possui algum tipo de deficiência visual.
+    • 5% da população com algum tipo de deficiencia auditiva.
+
+Logo, analisando os dados, percebe-se que há muitos impedimentos para brasileiros acessarem o cinema. Dessa forma, observando a crescente acessibilidade aos dispositivos móveis eletrônicos e o acesso a Internet como apontado pelo IBGE (79,3% da população brasileira com 10 anos ou mais de idade possui celular) e (82,7% dos domicílios brasileiros têm acesso à internet), a proposta teria essas duas ferramentas como meio de levar o cinema as pessoas que possuem dificuldades de acessar o cinema, sejam elas pelos motivos já citados: deficiência física, locomotiva ou geográfica.
+
+
 ## Público-Alvo
 
-O sistema busca atender ao cinema proporcionando uma maneira de conseguir ter mais público para o mesmo e atender ao público que gosta de filmes que seria um público livre pois possui filme de todas indicações tanto do livre até os com indicação maior de 18 anos assim facilitando o acesso dos mesmos aos filmes.
+- O sistema busca atender ao cinema proporcionando uma maneira de conseguir ter mais público para o mesmo e atender ao público que gosta de filmes que seria um público livre pois possui filmes de todas indicações tanto do livre até os com indicação maior de 18 anos assim facilitando o acesso dos mesmos aos filmes.
+
+A partir dos dados pode se extrair algum dos grupos de:
+- Deficiências Físicas (Cadeirantes, surdos, cegos [Não completos])
+- Dificuldades Locomotivas (Cadeirantes que não conseguem locomoção ou transporte, áreas de dificil acesso de transporte, preço da gasolina e da locomoção da pessoa até o cinema)
+- Dificuldades Geográficas (Pessoas que moram em áreas longes dos centros urbanos, a cidade da pessoa que não tem cinema).
+
+
+## Possivel Execução
+
+A aplicação seria uma plataforma online que auxiliaria os cinemas a exibirem os filmes que são reproduzidos no cinema físico em um sessão online.
+O cliente/usuário poderá:
+    • Acessar o site
+    • Criar seu login
+    • Acessar os menus (Filmes, Categorias, Em breve, Sinopse, Descrição do Filme, acessar as sessões e horários disponíveis).
+    • A tela de entrar na sessão e ver o filme.
+    • O usuário será incapaz de printar ou filmar a tela/assistir sem pagar o ingresso.
+    Referências para a aplicação: Cinemark, Cineart, Telecine, Netflix
+    
+    
+# PRINCIPAIS DIFERENCIAIS:
+   • Os filmes que estariam presente na plataforma seriam os mesmos do cinema. Tendo a vantagem de serem transmitidos e reproduzidos online, o que daria ao usuário o poder de assistir onde quiser.
+   • O usuário não precisaria pegar filas ou ter o desapontamento de querer assistir um filme no espaço físico e esse não possuir mais lugares, obrigando o cliente a ter que assistir em outro horário/sessão.
+   • Os custos do cliente relacionados a alimentação e deslocamento seriam reduzidos.
+   • Os cinemas teriam mais notariedade para aqueles que não conseguem ir aos espaços físicos.
+   • As adaptações de acessibilidade seriam melhor colocadas, dando ao cliente essas opções.
+
+# POSSÍVEIS PROBLEMAS/QUESTIONAMENTOS:
+  • Os cinemas físicos ainda contariam com a presença das pessoas normalmente? (Qual incentivo pode ser dado para que as pessoas ainda vejam os filmes presencialmente)
+  • Filmagens ilegais dos filmes através de câmeras.
+  • Reprodução ilegal.
+    
+    

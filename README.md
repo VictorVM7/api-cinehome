@@ -2,7 +2,6 @@
 # CineHome
 
 * Sistema de Informação 
-testes
 
 * Trabalho Interdisciplinar: Aplicações Web
 

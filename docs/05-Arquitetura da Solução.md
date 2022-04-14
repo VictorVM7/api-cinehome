@@ -56,7 +56,8 @@ notificado para o usuário (Tela 8) e em seguida ele é redirecionado
 para a Tela 2.
 
 ![Exemplo de UserFlow](img/userflow.jpg)
-
+file:///C:/Users/1372836/Downloads/Diagrama%20de%20casos%20de%20uso.drawio.png
+Teste
 
 ## Tecnologias Utilizadas
 

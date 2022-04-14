@@ -55,7 +55,8 @@ escolher salvar ou deletar o post. Em ambos os casos o status é
 notificado para o usuário (Tela 8) e em seguida ele é redirecionado
 para a Tela 2.
 
-
+# DIAGRAMA DE CASOS DE USO
+Descrevemos por meio de um diagrama de caso de uso graficamente um subconjunto do modelo para simplificar a comunicação e atribuir as tarefas do usuario e do desenvolvedor, resumindo assim por meio de blocos a açâo que cada um vai percorer.  
 ![Exemplo de UserFlow](img/userflow.jpg)
 
 Teste

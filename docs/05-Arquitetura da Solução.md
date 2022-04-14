@@ -55,8 +55,9 @@ escolher salvar ou deletar o post. Em ambos os casos o status é
 notificado para o usuário (Tela 8) e em seguida ele é redirecionado
 para a Tela 2.
 
+
 ![Exemplo de UserFlow](img/userflow.jpg)
-file:///C:/Users/1372836/Downloads/Diagrama%20de%20casos%20de%20uso.drawio.png
+
 Teste
 
 ## Tecnologias Utilizadas
@@ -64,6 +65,8 @@ Teste
 Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
 
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+![Diagrama de casos de uso drawio](https://user-images.githubusercontent.com/101760190/163292859-1702b5bc-3cb5-4afb-a564-0a7727b1bc96.png)
+
 
 
 ## Hospedagem

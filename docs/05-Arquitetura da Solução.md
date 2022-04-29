@@ -58,7 +58,7 @@ para a Tela 2.
 # Tecnologias Utilizadas
 Na construção do site serão usadas as linguagens HTML, CSS e Javascript por serem as mais indicadas para construção de sites web. A IDE de desenvolvimento escolhida pela equipe foi o VsCode por ser gratuito e apresentar ferramentas que facilitam o trabalho colaborativo em equipe, facilitando o trabalho da equipe. Será utilizado o Javascript para manipular eventos de clicks em botões e criar alteração do layout de forma dinâmica. A equipe também pretende utilizar o framework Bootstrap,para realizar a forma responsiva do sistema e também utilizar a plataforma Font Awesome para utilização de ícones prontos.Também foi utilizados os programas Figma,Affinity e Drawio para a realização do design do sistema,user flow,regra de casos de usos e entre outros.E como plataforma de gerenciamento do projeto e envio do mesmo será utilizado o git hub.
 
-![Captura de tela 2022-04-29 094819](https://user-images.githubusercontent.com/101759330/165947258-ce1ba7dc-e599-4ab7-8cc1-47b6000d9672.png)
+![Ferramentas](https://user-images.githubusercontent.com/101759330/165947593-22e4cac2-ca71-4b5e-81d4-247a2616ad95.png)
 
 ## Diagramas de Casos de Usos 
 

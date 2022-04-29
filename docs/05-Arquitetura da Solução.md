@@ -55,17 +55,17 @@ escolher salvar ou deletar o post. Em ambos os casos o status é
 notificado para o usuário (Tela 8) e em seguida ele é redirecionado
 para a Tela 2.
 
-# DIAGRAMA DE CASOS DE USO
-Descrevemos por meio de um diagrama de caso de uso graficamente um subconjunto do modelo para simplificar a comunicação e atribuir as tarefas do usuario e do desenvolvedor, resumindo assim por meio de blocos a açâo que cada um vai percorer.  
-![Exemplo de UserFlow](img/userflow.jpg)
-
-Teste
-
-## Tecnologias Utilizadas
-
+# Tecnologias Utilizadas
 Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
 
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+![Exemplo de UserFlow](img/userflow.jpg)
+
+## Diagramas de Casos de Usos 
+
+Descrevemos por meio de um diagrama de caso de uso graficamente um subconjunto do modelo para simplificar a comunicação e atribuir as tarefas do usuario e do desenvolvedor, resumindo assim por meio de blocos a açâo que cada um vai percorer.  
+
+
 ![Diagrama de casos de uso drawio](https://user-images.githubusercontent.com/101760190/163292859-1702b5bc-3cb5-4afb-a564-0a7727b1bc96.png)
 
 

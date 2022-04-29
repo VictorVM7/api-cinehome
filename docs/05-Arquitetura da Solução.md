@@ -56,10 +56,9 @@ notificado para o usuário (Tela 8) e em seguida ele é redirecionado
 para a Tela 2.
 
 # Tecnologias Utilizadas
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+Na construção do site serão usadas as linguagens HTML, CSS e Javascript por serem as mais indicadas para construção de sites web. A IDE de desenvolvimento escolhida pela equipe foi o VsCode por ser gratuito e apresentar ferramentas que facilitam o trabalho colaborativo em equipe, facilitando o trabalho da equipe. Será utilizado o Javascript para manipular eventos de clicks em botões e criar alteração do layout de forma dinâmica. A equipe também pretende utilizar o framework Bootstrap,para realizar a forma responsiva do sistema e também utilizar a plataforma Font Awesome para utilização de ícones prontos.Também foi utilizados os programas Figma,Affinity e Drawio para a realização do design do sistema,user flow,regra de casos de usos e entre outros.E como plataforma de gerenciamento do projeto e envio do mesmo será utilizado o git hub.
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
-![Exemplo de UserFlow](img/userflow.jpg)
+![Captura de tela 2022-04-29 094819](https://user-images.githubusercontent.com/101759330/165947258-ce1ba7dc-e599-4ab7-8cc1-47b6000d9672.png)
 
 ## Diagramas de Casos de Usos 
 

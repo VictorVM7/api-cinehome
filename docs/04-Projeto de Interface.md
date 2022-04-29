@@ -9,7 +9,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
-Link para Arquivo em PDF:[Cine Home.pdf](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2022-1-e1-proj-web-t2-cinehome/files/8587472/Cine.Home.pdf)
+Link para Arquivo em PDF: [Cine Home.pdf](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2022-1-e1-proj-web-t2-cinehome/files/8587472/Cine.Home.pdf)
 
 Link de Redirecionamento da Plataforma MIRO no qual foi utilzada para realizar o User Flow: https://miro.com/app/board/uXjVO5d8fb4=/?share_link_id=385067387427
 

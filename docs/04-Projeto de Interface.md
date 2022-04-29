@@ -9,8 +9,8 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
-[Cine Home.pdf]
-(https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2022-1-e1-proj-web-t2-cinehome/files/8587472/Cine.Home.pdf)
+[Cine Home.pdf](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2022-1-e1-proj-web-t2-cinehome/files/8587472/Cine.Home.pdf)
+
 https://miro.com/app/board/uXjVO5d8fb4=/?share_link_id=385067387427
 
 ## Wireframes

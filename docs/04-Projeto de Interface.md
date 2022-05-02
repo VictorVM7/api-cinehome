@@ -37,3 +37,10 @@ Abaixo é possível algumas das principais páginas do nosso sistema para ter um
 
 ## Tela Sessões de Filmes do Usuário
 ![Telas Sessoes](https://user-images.githubusercontent.com/101759330/166172648-e9d6eaf8-09d9-4cd3-9602-999ea25d3bb9.png)
+
+## Aviso com Chave de Visualização do Filme
+![Tela Aviso](https://user-images.githubusercontent.com/101759330/166172824-a164f6c6-74b3-4ab7-ab7b-85c3ec25fbed.png)
+
+## Tela para Assistir o Filme
+![Tela Filme](https://user-images.githubusercontent.com/101759330/166172856-7dea83dd-e777-4af1-b364-c9929057d0f3.png)
+

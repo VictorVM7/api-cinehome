@@ -10,7 +10,7 @@
 
 * Funcionamento: Possuiremos ferramentas que facilitarão a experiência de nosso usuário na utilização do sistema sendo o mesmo bastante intuitivo.
 
-*Usuário Cadastrado: O usuário cadastrado poderá realizar a compra dos ingressos ,escolher como o mesmo vai assitir o filme e receber a chave do filme por e-mail caso tenha escolhido o modo online e assim assitir o filme através do nosso sistema.
+* Usuário Cadastrado: O usuário cadastrado poderá realizar a compra dos ingressos ,escolher como o mesmo vai assitir o filme e receber a chave do filme por e-mail caso tenha escolhido o modo online e assim assitir o filme através do nosso sistema.
 
 * Contato: Na parte do rodapé de nossa plataforma será incluido todos os contatos através de redes socias e até mesmo de telefone.
 

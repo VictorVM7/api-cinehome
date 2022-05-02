@@ -18,6 +18,10 @@ Link de Redirecionamento da Plataforma MIRO no qual foi utilzada para realizar o
 
 ## Wireframes
 
-[Cine Home Telas.pdf](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2022-1-e1-proj-web-t2-cinehome/files/8600208/Cine.Home.Telas.pdf)
+Link para Arquivo em PDF: [Cine Home Telas.pdf](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2022-1-e1-proj-web-t2-cinehome/files/8600208/Cine.Home.Telas.pdf)
 
-https://www.figma.com/file/4JKIMT5Gff44xe6azaHNC9/Cine-Home-Telas?node-id=0%3A1
+Link de Redirecionamento da Plataforma Figma no qual foi realizado o Design: https://www.figma.com/file/4JKIMT5Gff44xe6azaHNC9/Cine-Home-Telas?node-id=0%3A1
+
+
+# Tela Principal do Sistema
+![Tela Principal](https://user-images.githubusercontent.com/101759330/166172444-c120218f-2680-4d3a-9aeb-bed89fa41e6c.png)

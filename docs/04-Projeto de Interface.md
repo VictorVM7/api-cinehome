@@ -20,6 +20,8 @@ Link de Redirecionamento da Plataforma MIRO no qual foi utilzada para realizar o
 
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
+https://www.figma.com/file/4JKIMT5Gff44xe6azaHNC9/Cine-Home-Telas?node-id=0%3A1
+
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  
 > **Links Úteis**:

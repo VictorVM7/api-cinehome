@@ -71,11 +71,5 @@ Descrevemos por meio de um diagrama de caso de uso graficamente um subconjunto d
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+No momento a hospedagem de nosso sistema sera feita através do git hub , para que todos os membros da equipe tenham uma facilidade para acessar e alterar o projeto e também realizar updates das versões do sistema.
 
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)

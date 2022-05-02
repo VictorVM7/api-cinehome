@@ -18,17 +18,6 @@ Link de Redirecionamento da Plataforma MIRO no qual foi utilzada para realizar o
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+[Cine Home Telas.pdf](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2022-1-e1-proj-web-t2-cinehome/files/8600208/Cine.Home.Telas.pdf)
 
 https://www.figma.com/file/4JKIMT5Gff44xe6azaHNC9/Cine-Home-Telas?node-id=0%3A1
-
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)

@@ -24,16 +24,16 @@
 
 * Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador.
 
-O site do Cine Home tera formas de login e cadastro para os usuários conseguirem acessar suas informações como seus ingressos, para assim ser possível a visualização do filme.
+  O site do Cine Home tera formas de login e cadastro para os usuários conseguirem acessar suas informações como seus ingressos, para assim ser possível a visualização do filme.
 
 # Tecnologias Utilizadas
-Na construção do site serão usadas as linguagens HTML, CSS e Javascript por serem as mais indicadas para construção de sites web. A IDE de desenvolvimento escolhida pela equipe foi o VsCode por ser gratuito e apresentar ferramentas que facilitam o trabalho colaborativo em equipe, facilitando o trabalho da equipe. Será utilizado o Javascript para manipular eventos de clicks em botões e criar alteração do layout de forma dinâmica. A equipe também pretende utilizar o framework Bootstrap,para realizar a forma responsiva do sistema e também utilizar a plataforma Font Awesome para utilização de ícones prontos.Também foi utilizados os programas Figma,Affinity e Drawio para a realização do design do sistema,user flow,regra de casos de usos e entre outros.E como plataforma de gerenciamento do projeto e envio do mesmo será utilizado o git hub.
+  Na construção do site serão usadas as linguagens HTML, CSS e Javascript por serem as mais indicadas para construção de sites web. A IDE de desenvolvimento escolhida pela equipe foi o VsCode por ser gratuito e apresentar ferramentas que facilitam o trabalho colaborativo em equipe, facilitando o trabalho da equipe. Será utilizado o Javascript para manipular eventos de clicks em botões e criar alteração do layout de forma dinâmica. A equipe também pretende utilizar o framework Bootstrap,para realizar a forma responsiva do sistema e também utilizar a plataforma Font Awesome para utilização de ícones prontos.Também foi utilizados os programas Figma,Affinity e Drawio para a realização do design do sistema,user flow,regra de casos de usos e entre outros.E como plataforma de gerenciamento do projeto e envio do mesmo será utilizado o git hub.
 
 ![Ferramentas](https://user-images.githubusercontent.com/101759330/165947593-22e4cac2-ca71-4b5e-81d4-247a2616ad95.png)
 
 ## Diagramas de Casos de Usos 
 
-Descrevemos por meio de um diagrama de caso de uso graficamente um subconjunto do modelo para simplificar a comunicação e atribuir as tarefas do usuario e do desenvolvedor, resumindo assim por meio de blocos a açâo que cada um vai percorer.  
+  Descrevemos por meio de um diagrama de caso de uso graficamente um subconjunto do modelo para simplificar a comunicação e atribuir as tarefas do usuário e do desenvolvedor, resumindo assim por meio de blocos a ação que cada um vai percorrer.  
 
 
 ![Diagrama de casos de uso drawio](https://user-images.githubusercontent.com/101760190/163292859-1702b5bc-3cb5-4afb-a564-0a7727b1bc96.png)
@@ -42,5 +42,5 @@ Descrevemos por meio de um diagrama de caso de uso graficamente um subconjunto d
 
 ## Hospedagem
 
-No momento a hospedagem de nosso sistema sera feita através do git hub , para que todos os membros da equipe tenham uma facilidade para acessar e alterar o projeto e também realizar updates das versões do sistema.
+  No momento a hospedagem de nosso sistema sera feita através do git hub , para que todos os membros da equipe tenham uma facilidade para acessar e alterar o projeto e também realizar updates das versões do sistema.
 

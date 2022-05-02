@@ -19,7 +19,9 @@
 ![Diagrama](https://user-images.githubusercontent.com/101759330/166177203-c8aa95f9-acd4-4000-8509-7ab265b8deca.png)
 
 *Navegador - Interface básica do sistema
- *Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
+
+*Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
+
 *Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador.
 
 O site do Cine Home tera formas de login e cadastro para os usuários conseguirem acessar suas informações como seus ingressos, para assim ser possível a visualização do filme.

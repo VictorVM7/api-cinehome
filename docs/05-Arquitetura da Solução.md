@@ -4,25 +4,25 @@
 
   Nossa Página Inicial apresentará os filmes que possui em cartaz nos cinemas no momento e também os que serão lançados em breve, além de um cabeçalho no qual terá todos os caminho para "Login","Cadastro","Filmes em Cartaz","Filmes em Breve" e "Suas Sessões".
   
-*Objetivo: Temos como principal objetivo realizar uma maior facilitação de acesso aos cinemas, para que aqueles que por diversos motivos não conseguem ter acesso aos cinemas conseguirem acessar de uma maneira mais prática os filmes através de nossa plataforma.
+* Objetivo: Temos como principal objetivo realizar uma maior facilitação de acesso aos cinemas, para que aqueles que por diversos motivos não conseguem ter acesso aos cinemas conseguirem acessar de uma maneira mais prática os filmes através de nossa plataforma.
   
-*Planos: Possuirá todos os filmes que estão em cartaz nos filmes para que seja possível o usuário escolher o filme que desejar e também terá a opção do mesmo escolher se ira querer ver o filme de modo presencial ou on-line.
+* Planos: Possuirá todos os filmes que estão em cartaz nos filmes para que seja possível o usuário escolher o filme que desejar e também terá a opção do mesmo escolher se ira querer ver o filme de modo presencial ou on-line.
 
-*Funcionamento: Possuiremos ferramentas que facilitarão a experiência de nosso usuário na utilização do sistema sendo o mesmo bastante intuitivo.
+* Funcionamento: Possuiremos ferramentas que facilitarão a experiência de nosso usuário na utilização do sistema sendo o mesmo bastante intuitivo.
 
 *Usuário Cadastrado: O usuário cadastrado poderá realizar a compra dos ingressos ,escolher como o mesmo vai assitir o filme e receber a chave do filme por e-mail caso tenha escolhido o modo online e assim assitir o filme através do nosso sistema.
 
-*Contato: Na parte do rodapé de nossa plataforma será incluido todos os contatos através de redes socias e até mesmo de telefone.
+* Contato: Na parte do rodapé de nossa plataforma será incluido todos os contatos através de redes socias e até mesmo de telefone.
 
 # Diagrama de componentes
 
 ![Diagrama](https://user-images.githubusercontent.com/101759330/166177203-c8aa95f9-acd4-4000-8509-7ab265b8deca.png)
 
-*Navegador - Interface básica do sistema
+* Navegador - Interface básica do sistema
 
-*Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
+* Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
 
-*Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador.
+* Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador.
 
 O site do Cine Home tera formas de login e cadastro para os usuários conseguirem acessar suas informações como seus ingressos, para assim ser possível a visualização do filme.
 

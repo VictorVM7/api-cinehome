@@ -1,7 +1,7 @@
 
 # Metodologia
 
-Nossa equipe tem como objetivo realizar o desenvolvimento de uma plataforma que tem como principal função uma facilitação ao acesso ao cinema. Nessa plataforma para ser possível a realização da principal função tera as seguintes funções em nossa plataforma:
+O objetivo é realizar o desenvolvimento de uma plataforma que tem como principal função uma facilitação ao acesso ao cinema. Nessa plataforma para ser possível a realização da principal função tera as seguintes funções em nossa plataforma:
 
 * Equipe utiliza se de metodologia Scrum para as organizações de tarefas e controle do projeto. 
 

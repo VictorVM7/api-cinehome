@@ -2,10 +2,6 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
 ## Personas
 
 *João Alberto* - João Alberto Rodrigues tem 31 anos, mora com a esposa Marcela Diniz desde os 25 anos, quanso se casaram. Ele é cadeirante desde os 26 anos quando sofreu um acidente de moto na esquina de sua casa. João é muito eclético com relação a filmes, não possuindo um gênero cinemático preferido e ele sempre está por dentro das notícias que envolvem esse meio artístico, sendo isso o principal fator que o fizesse a frequentar os cinemas antes de sofrer o acidente. No entanto, após sua lesão, João não consegue ir aos cinemas facilmente uma vez que, no lugar onde mora, não há calçadas regulares, há pouco movimento de transporte público, não possui muitas condições de ter veículos adaptados e o casal encontra dificuldades físicas de descolamento até o shopping da cidade, onde fica o cinema.
@@ -46,8 +42,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |   ID	  |              Descrição do Requisito	                 | Prioridade |
 |:------:|------------------------------------------------------|:----------:|
-|RNF-001	| O sistema deve ser responsivo (Adaptar as telas)	    | Alta       |
-|RNF-002	| O sistema deve proteger o login e senha do usuário	  | Alta       |
+|RNF-001	| Ser responsivo (Adaptar as telas)	    | Alta       |
+|RNF-002	| Proteger o login e senha do usuário	  | Alta       |
 |RNF-003	| A navegação deve ser intuitiva e fácil	              | Média      |
 |RNF-004	| A interface precisa conter elementos minimalistas	   | Baixa      |
 |RNF-005 |	O sistema deve oferecer um meio de pagamento seguro	 | Alta       |

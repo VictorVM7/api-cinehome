@@ -1,0 +1,170 @@
+@import "Global-Styles.css";
+
+.more-information{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+/* DIREITA */
+
+.direita{
+    margin-left: 20px;
+}
+
+.texto .title-more {
+    color: var(--LaranjaForte);
+}
+
+.texto .sinopse-more{
+    color: var(--GreyText);
+}
+
+.classificacao{
+    display: flex;
+    justify-content: space-between;
+}
+
+.classificacao .likes{
+	font-size: 1rem;
+	color: var(--LaranjaForte);
+}
+
+.classificacao .likes span{
+	margin-left: 10px;
+}
+
+.sessoes{
+    background-color: var(--LaranjaForte);
+    padding: 2px 40px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.sessoes:hover{
+    background-color: var(--MarromClaro);
+}
+
+.sessoes a{
+    color: white;
+}
+
+@media (max-width:997px){
+    .direita{
+        margin-top: 40px;
+    }
+    
+    .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    
+}
+
+/* ABOUT MOVIE */
+
+.about-movie{
+    background-color: var(--MarromEscuro);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.esquerda-about{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+.esquerda-about .title-about{
+    color: var(--LaranjaForte);
+    margin-bottom: 20px;
+}
+
+.esquerda-about p{
+    color: white;
+}
+
+.direita-about{
+    margin-left: 20px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+@media(max-width:997px){
+    .direita-about{
+        display: flex;
+        justify-content: center;
+    } 
+}
+
+/* Sessões */
+
+.sessoes-movie{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.title-sessoes{
+    color: var(--LaranjaForte);
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.box-sessoes{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+table{
+    margin-left: 20px;
+}
+
+td.sessao-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 5px;
+    background-color: var(--LaranjaForte);
+}
+
+td.sessao-btn:hover{
+    background-color: var(--MarromClaro);
+}
+
+.sessao-btn a{
+    color: white;
+    text-decoration: none;
+}
+
+@media (max-width:997px){
+    table{
+        margin-top: 20px;
+    }
+
+    .box-sessoes{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}

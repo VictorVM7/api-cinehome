@@ -4,7 +4,7 @@
 
 ## Personas
 
-*João Alberto* - João Alberto Rodrigues tem 31 anos, mora com a esposa Marcela Diniz desde os 25 anos, quanso se casaram. Ele é cadeirante desde os 26 anos quando sofreu um acidente de moto na esquina de sua casa. João é muito eclético com relação a filmes, não possuindo um gênero cinemático preferido e ele sempre está por dentro das notícias que envolvem esse meio artístico, sendo isso o principal fator que o fizesse a frequentar os cinemas antes de sofrer o acidente. No entanto, após sua lesão, João não consegue ir aos cinemas facilmente uma vez que, no lugar onde mora, não há calçadas regulares, há pouco movimento de transporte público, não possui muitas condições de ter veículos adaptados e o casal encontra dificuldades físicas de descolamento até o shopping da cidade, onde fica o cinema.
+*João Alberto* - João Alberto Rodrigues tem 31 anos, mora com a esposa Marcela Diniz desde os 25 anos, quando se casaram. Ele é cadeirante desde os 26 anos quando sofreu um acidente de moto na esquina de sua casa. João é muito eclético com relação a filmes, não possuindo um gênero cinemático preferido e ele sempre está por dentro das notícias que envolvem esse meio artístico, sendo isso o principal fator que o fizesse a frequentar os cinemas antes de sofrer o acidente. No entanto, após sua lesão, João não consegue ir aos cinemas facilmente uma vez que, no lugar onde mora, não há calçadas regulares, há pouco movimento de transporte público, não possui muitas condições de ter veículos adaptados e o casal encontra dificuldades físicas de descolamento até o shopping da cidade, onde fica o cinema.
 
 *Ana Beatriz* - Ana Beatriz Silva é uma jovem de 21 anos idade, filha do padeiro José Silva, filha da costureira de uma empresa de camisas Carla Silva e irmã mais velha de Gabriela de 12 anos. Ana, seguindo os passos da mãe, está fazendo um cursinho de moda na sua cidade no interior de Minas Gerais. Ela, como muitos outros brasileiros, nunca foi ao cinema pois o cinema mais próximo fica na cidade vizinha a 42km. Devido as condiçoes da família, eles ainda não tiveram a oportunidade de ver um filme lançado nos cinemas pois as condições são muito difíceis para eles, como o preço da gasolina, deslocamento, preço do ingressos e alimentação.
 
@@ -16,7 +16,6 @@
 ### Usuário
 |  COMO  |	         QUERO	             |  PARA
 |:------:| --------------------------- | ------------------------------------------------|
-|Usuário	| Entrar no site             	|  Entender as funcionalidades do site            |  
 |Usuário	| Cadastrar	                  |  Ter acesso ao site e suas funcionalidades      |
 |Usuário	| Ver os horários do filme   	|  Agendar o melhor horário para assistir o filme |
 |Usuário	| Ver a sinopse de um filme	  |  Saber o resumo do filme                        |
@@ -28,7 +27,6 @@
 ### Administrador
 |COMO	| QUERO	| PARA |
 |:---:|-------|------|
-|Administrador |	Aprovar perfil de usuário	                | Verificação de veracidade do cadastro |
 |Administrador	| Disponibilizar os filmes                  |	Usuários poderem assistir             |
 |Administrador	| Excluir, manter, alterar e criar usuários | Controle do sistema                   |
 |Administrador	| Alterar informações do site               |	Deixá-las atualizadas                 |
@@ -48,8 +46,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-004	| A interface precisa conter elementos minimalistas	   | Baixa      |
 |RNF-005 |	O sistema deve oferecer um meio de pagamento seguro	 | Alta       |
 |RNF-006	| O site deve ser construído em HTML, CSS e JS	        | Média      |
-|RNF-007 |	A resposta do sistema as requisições são de 3s	      | Baixa      |
-|RNF-008 |	O sistema deve rodar em Windows e Linux	             | Média      |
 
 
 ### Requisitos Funcionais

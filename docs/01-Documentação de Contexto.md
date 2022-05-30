@@ -22,9 +22,9 @@ Podemos destacar os seguintes objetivos específicos:
 
 ## Justificativa
 
-Quem um dia não quis assitir um filme em lancamento no cinema mas após um dia cheio e cansativo quando chegou em casa não queria sair pois ja estava cansado e sabia que o filme sairia de cartaz em alguns poucos dias ou até mesmo aquele dia que você não possuia muito dinheiro para se locomover até um cinema mais próximo e deixou de ir ao cinema perdeu assim a estreia daquele filme que desejava ver e que todas as outras pessoas estão falando. Pensando nisso nosso sistema tem como principal objetivo a facilitação do acesso ao cinema para que nesses você consigam assitir o filme desejado sem a necessidade de ter que se locomover até o cinema mais próximo.
+Quem um dia não quis assitir um filme em lancamento no cinema mas após um dia cheio e cansativo quando chegou em casa não queria sair pois já estava cansado e sabia que o filme sairia de cartaz em alguns poucos dias ou até mesmo aquele dia que você não possuia muito dinheiro para se locomover até um cinema mais próximo e deixou de ir ao cinema perdeu assim a estreia daquele filme que desejava ver e que todas as outras pessoas estão falando. Pensando nisso, o sistema tem como principal objetivo a facilitação do acesso ao cinema para que nesses você consigam assitir o filme desejado sem a necessidade de ter que se locomover até o cinema mais próximo.
 
-O que além de facilitar o acesso para esse tipo de caso também facilitaria para as pessoas que possuem necessidades como por exemplo uma pessoa que necessita de cuidados especiais e deseja assitir um filme só que no momento não tem como se locomover até o cinema. O nosso sistema faria com que esse tipo de caso não acontecesse.
+O que além de facilitar o acesso para esse tipo de caso também facilitaria para as pessoas que possuem necessidades como por exemplo uma pessoa que necessita de cuidados especiais e deseja assitir um filme só que no momento não tem como se locomover até o cinema. O sistema faria com que esse tipo de caso não acontecesse.
 
 Além de todas essa vantagens para os usuários também seria uma grande vantagem para os cinemas pois os mesmos conseguiriam um aumento do seu público conseguindo ter mais sessões de filmes disponíveis e assim conseguindo aumentar o seu lucro.
 
@@ -67,7 +67,7 @@ O cliente/usuário poderá:
     • Criar seu login
     • Acessar os menus (Filmes, Categorias, Em breve, Sinopse, Descrição do Filme, acessar as sessões e horários disponíveis).
     • A tela de entrar na sessão e ver o filme.
-    • O usuário será incapaz de printar ou filmar a tela/assistir sem pagar o ingresso.
+    • O usuário será incapaz de printar ou filmar a tela/assistir sem pagar o ingresso, protegendo a tela de possiveis prints.
     Referências para a aplicação: Cinemark, Cineart, Telecine, Netflix
     
     

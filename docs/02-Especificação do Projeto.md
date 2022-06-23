@@ -17,12 +17,8 @@
 |  COMO  |	         QUERO	             |  PARA
 |:------:| --------------------------- | ------------------------------------------------|
 |Usuário	| Cadastrar	                  |  Ter acesso ao site e suas funcionalidades      |
-|Usuário	| Ver os horários do filme   	|  Agendar o melhor horário para assistir o filme |
+|Usuário	| Ver os horários do filme   	|  Escolher o momento que deseja Assistir         |
 |Usuário	| Ver a sinopse de um filme	  |  Saber o resumo do filme                        |
-|Usuário	| Comprar um ingresso	        |  Assisir ao filme escolhido                     |
-|Usuário	| Alterar dados do meu perfil | 	Deixá-lo atualizado                            |
-|Usuário	| Deslogar	                   |  Sair do site                                   |
-
 
 ### Administrador
 |COMO	| QUERO	| PARA |
@@ -41,11 +37,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |   ID	  |              Descrição do Requisito	                 | Prioridade |
 |:------:|------------------------------------------------------|:----------:|
 |RNF-001	| Ser responsivo (Adaptar as telas)	    | Alta       |
-|RNF-002	| Proteger o login e senha do usuário	  | Alta       |
-|RNF-003	| A navegação deve ser intuitiva e fácil	              | Média      |
-|RNF-004	| A interface precisa conter elementos minimalistas	   | Baixa      |
-|RNF-005 |	O sistema deve oferecer um meio de pagamento seguro	 | Alta       |
-|RNF-006	| O site deve ser construído em HTML, CSS e JS	        | Média      |
+|RNF-002	| A navegação deve ser intuitiva e fácil	              | Média      |
+|RNF-003	| A interface precisa conter elementos minimalistas	   | Baixa      |
+|RNF-004	| O site deve ser construído em HTML, CSS e JS	        | Média      |
 
 
 ### Requisitos Funcionais
@@ -55,14 +49,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001|	Cadastrar no sistema |	Alta |
 |RF-002|	Realizar login	| Alta |
 |RF-003|	Opçao para acessar sessão do filme para assistir |	Alta |
-|RF-004|	Emitir os ingressos virtuais para o usuário com os horários |	Alta |
-|RF-005|	Escolher o filme para assistir |	Média |
-|RF-006|	Opção de marcar a sessão do filme |	Média |
-|RF-007|	Dar opção de acessibilidade (legendas, alto contraste) |	Média |
-|RF-008|	Pesquisar por filmes e filtrá-los por gênero |	Baixa |
-|RF-009|	Ver dados dos filmes |	Baixa |
-|RF-010|	Dar opção de lembrete para o usuário |	Baixa |
-|RF-011|	Avaliar o filme assistido |	Baixa |
+|RF-004|	Escolher o filme para assistir |	Média |
+|RF-005|	Opção de marcar a sessão do filme |	Média |
+|RF-006|	Ver dados dos filmes |	Baixa |
 
 - [Requisitos Funcionais
  (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
@@ -79,10 +68,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | ITEM	| RESTRIÇÃO         |
 |:----:|-------------------|
 |    1 |	O usuário não poderá gravar ou printar a tela durante o filme |
-|    2 |	O usuário não poderá ver o filme sem pagar | 
-|    3 |	O administrador não terá acesso aos dados críticos do usuário (Dados bancários) |
-|    4 |	Não será possíver dar uma avaliação sem ter assistido o filme |
-|    5 |	O usuário não poderá parar o filme e assistir depois |
+|    2 |	O usuário não poderá parar o filme e assistir depois |
 
 ## LINK DA PLANILHA DE ESPECIFICAÇÃO:
 https://drive.google.com/drive/folders/1hpnijMHbGk5BzVUdY7hBcFGXEb4rrCB5

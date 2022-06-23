@@ -35,8 +35,7 @@
 
   Descrevemos por meio de um diagrama de caso de uso graficamente um subconjunto do modelo para simplificar a comunicação e atribuir as tarefas do usuário e do desenvolvedor, resumindo assim por meio de blocos a ação que cada um vai percorrer.  
 
-![image](https://user-images.githubusercontent.com/101759330/175291998-fa982dc7-b23a-4229-af20-ac2cabf17afd.png)
-
+![image](https://user-images.githubusercontent.com/101759330/175292168-ac4972fd-ce55-4248-ac74-aa86f3a0b240.png)
 
 ## Hospedagem
 

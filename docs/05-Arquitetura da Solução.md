@@ -35,9 +35,7 @@
 
   Descrevemos por meio de um diagrama de caso de uso graficamente um subconjunto do modelo para simplificar a comunicação e atribuir as tarefas do usuário e do desenvolvedor, resumindo assim por meio de blocos a ação que cada um vai percorrer.  
 
-
-![Diagrama de casos de uso drawio](https://user-images.githubusercontent.com/101760190/163292859-1702b5bc-3cb5-4afb-a564-0a7727b1bc96.png)
-
+![image](https://user-images.githubusercontent.com/101759330/175291998-fa982dc7-b23a-4229-af20-ac2cabf17afd.png)
 
 
 ## Hospedagem

@@ -4,5 +4,10 @@
     "version": "1.0.0",
     "engines": {
       "node": "v16.15.0"
+    },
+    "scripts": {
+        "start": "node index.js",
+        "build": "ng build",
+        "heroku-postbuild": "ng build --prod"
     }
-  }
+}

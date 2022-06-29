@@ -1,0 +1,8 @@
+{
+    "name": "api-cinehome",
+    "description": "top",
+    "version": "1.0.0",
+    "engines": {
+      "node": "v16.15.0"
+    }
+  }
